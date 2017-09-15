@@ -1,0 +1,85 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{640, 250}, {90, 40}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "spanish_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Spanish",
+          "uuid" : "92ACFB2A-7438-4F83-8795-E3CF15D44602",
+          "class" : "Button",
+          "name" : "spanish_button",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{463, 250}, {90, 40}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "french_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "French",
+          "uuid" : "30D7D09B-EA2B-498E-A444-DD9163838BC7",
+          "class" : "Button",
+          "name" : "french_button",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{280, 250}, {90, 40}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "english_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "English",
+          "uuid" : "7BA022FD-364F-42F5-A851-1D45488A35FC",
+          "class" : "Button",
+          "name" : "english_button",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{416, 322}, {190, 40}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "0B50030D-3F01-4A3D-895D-B0D089E380F1",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World!",
+          "font_size" : 24,
+          "name" : "hello_world_label"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
